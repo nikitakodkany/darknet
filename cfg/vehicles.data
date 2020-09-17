@@ -1,0 +1,5 @@
+classes= 10
+train  = cfg/vehicles-train.txt
+valid  = cfg/vehicles-test.txt
+names = data/vehicles.names
+backup = backup
